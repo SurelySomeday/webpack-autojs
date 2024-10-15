@@ -1,0 +1,13 @@
+{
+    "name": "薪福通打卡",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": true
+    },
+    "packageName": "top.yxlgx.xft",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
